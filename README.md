@@ -6,7 +6,7 @@ Pre-requisites
 ==============
 
   - Android SDK v26
-  - Android Build Tools v26.0.0
+  - Android Build Tools v26.0.1
   - Android Support Repository v26.+
 
 
